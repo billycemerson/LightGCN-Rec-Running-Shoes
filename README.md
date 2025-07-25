@@ -42,7 +42,7 @@ LightGCN-Rec-Running-Shoes/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/nineten-recommender.git
+git clone https://github.com/billycemerson/LightGCN-Rec-Running-Shoes.git
 ```
 
 ## Usage
